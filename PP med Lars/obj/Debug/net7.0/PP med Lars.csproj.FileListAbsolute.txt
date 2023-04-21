@@ -1,0 +1,5 @@
+C:\Users\Ståle\source\repos\PP med Lars\PP med Lars\obj\Debug\net7.0\PP med Lars.csproj.AssemblyReference.cache
+C:\Users\Ståle\source\repos\PP med Lars\PP med Lars\obj\Debug\net7.0\PP med Lars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ståle\source\repos\PP med Lars\PP med Lars\obj\Debug\net7.0\PP med Lars.AssemblyInfoInputs.cache
+C:\Users\Ståle\source\repos\PP med Lars\PP med Lars\obj\Debug\net7.0\PP med Lars.AssemblyInfo.cs
+C:\Users\Ståle\source\repos\PP med Lars\PP med Lars\obj\Debug\net7.0\PP med Lars.csproj.CoreCompileInputs.cache
